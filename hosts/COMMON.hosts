@@ -1,0 +1,16 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "COMMON.hosts"}
+# common
+# 这儿是公用 hosts，其内容会插入到各个方案最前面
+
+
+#localhost START
+127.0.0.1 localhost
+::1 localhost
+#localhost END
+
+#Jerry Home START
+192.168.0.110 hibernate_test.jerry.org
+192.168.0.100 nexus_home.jerry.org
+192.168.0.100 ci-core-nexus-repository
+192.168.0.100 cdr-nexus-repository
+#Jerry Home END
