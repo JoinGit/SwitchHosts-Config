@@ -1,0 +1,576 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "3.29\u540c\u6b65chrome"}
+# 3.29同步chrome
+
+
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+#Update Time 2015-03-28 15:00
+
+#[Start]
+
+#WebStore&Extensions
+216.58.221.190 clients2.google.com
+216.58.221.190 chrome.google.com
+216.58.221.190 clients2.googleusercontent.com
+216.58.221.190 lh0.googleusercontent.com
+216.58.221.190 lh1.googleusercontent.com
+216.58.221.190 lh2.googleusercontent.com
+216.58.221.190 lh3.googleusercontent.com
+216.58.221.190 lh4.googleusercontent.com
+216.58.221.190 lh5.googleusercontent.com
+216.58.221.190 lh6.googleusercontent.com
+
+#Bookmarks
+216.58.221.190 clients4.google.com
+216.58.221.190 clients4.googleusercontent.com
+
+#Accounts
+216.58.221.190 accounts.google.com
+216.58.221.190 accounts.l.google.com
+216.58.221.190 accounts.google.com.hk
+216.58.221.190 myaccount.google.com
+
+#Page
+216.58.221.190 google.com
+216.58.221.190 www.google.com
+216.58.221.190 www.google.com.hk
+216.58.221.190 scholar.l.google.com
+216.58.221.190 scholar.google.com
+216.58.221.190 scholar.google.com.hk
+216.58.221.190 scholar.google.com.tw
+216.58.221.190 books.google.com
+216.58.221.190 books.google.com.hk
+216.58.221.190 appengine.google.com
+216.58.221.190 inbox.google.com
+216.58.221.190 support.google.com
+216.58.221.190 desktop.google.com
+216.58.221.190 desktop.google.com.hk
+216.58.221.190 desktop.l.google.com
+216.58.221.190 desktop1.google.com
+216.58.221.190 desktop2.google.com
+173.194.212.137 groups.google.com
+173.194.212.137 groups.google.com.hk
+173.194.212.137 groups.google.com.tw
+173.194.212.137 groups.l.google.com
+173.194.212.137 groups-beta.google.com
+216.58.221.190 photos.google.com
+216.58.221.190 image.google.com
+216.58.221.190 image.google.com.hk
+216.58.221.190 images.google.com
+216.58.221.190 images.google.com.hk
+216.58.221.190 images.l.google.com
+216.58.221.190 plus.google.com
+216.58.221.190 plus.url.google.com
+216.58.221.190 id.google.com
+216.58.221.190 id.google.com.hk
+216.58.221.190 id.l.google.com
+216.58.221.190 labs.google.com
+216.58.221.190 translate.google.com
+216.58.221.190 translate.google.com.hk
+216.58.221.190 translate.google.com.tw
+216.58.221.190 news.google.com
+216.58.221.190 news.google.com.hk
+216.58.221.190 checkout.google.com
+216.58.221.190 checkout.l.google.com
+216.58.221.190 adwords.google.com
+216.58.221.190 domains.google.com
+216.58.221.190 wallet.google.com
+216.58.221.190 tools.google.com
+216.58.221.190 toolbar.google.com
+216.58.221.190 security.google.com
+216.58.221.190 history.google.com
+216.58.221.190 www.googleadsercices.com
+216.58.221.190 picasa.google.com
+216.58.221.190 picasaweb.google.com
+216.58.221.190 g.co
+216.58.221.190 goo.gl
+216.58.221.190 chrome.com
+173.194.210.193 m.google.com
+#216.58.221.190 dl.google.com
+#216.58.221.190 dl.l.google.com
+216.58.221.190 dl-ssl.google.com
+
+#Gstatic
+216.58.221.190 gstatic.com
+216.58.221.190 ssl.gstatic.com
+216.58.221.190 www.gstatic.com
+216.58.221.190 mt0.gstatic.com
+216.58.221.190 mt1.gstatic.com
+216.58.221.190 mt2.gstatic.com
+216.58.221.190 mt3.gstatic.com
+216.58.221.190 mt4.gstatic.com
+216.58.221.190 mt5.gstatic.com
+216.58.221.190 mt6.gstatic.com
+216.58.221.190 mt7.gstatic.com
+216.58.221.190 t0.gstatic.com
+216.58.221.190 t1.gstatic.com
+216.58.221.190 t2.gstatic.com
+216.58.221.190 t3.gstatic.com
+216.58.221.190 t4.gstatic.com
+216.58.221.190 t5.gstatic.com
+216.58.221.190 t6.gstatic.com
+216.58.221.190 t7.gstatic.com
+216.58.221.190 encrypted-tbn0.gstatic.com
+216.58.221.190 encrypted-tbn1.gstatic.com
+216.58.221.190 encrypted-tbn2.gstatic.com
+216.58.221.190 encrypted-tbn3.gstatic.com
+216.58.221.190 encrypted-tbn4.gstatic.com
+216.58.221.190 encrypted-tbn5.gstatic.com
+216.58.221.190 encrypted-tbn6.gstatic.com
+216.58.221.190 fonts.gstatic.com
+216.58.221.190 csi.gstatic.com
+216.58.221.190 csi.l.google.com
+
+#GoogleApis
+173.194.210.95 googleapis.com
+173.194.210.95 www.googleapis.com
+173.194.210.95 apis.google.com
+173.194.210.95 googleapis.l.google.com
+173.194.210.95 translate.googleapis.com
+173.194.210.95 ajax.googleapis.com
+#173.194.210.95 fonts.googleapis.com
+173.194.210.95 maps.googleapis.com
+173.194.210.95 plus.googleapis.com
+173.194.210.95 chart.googleapis.com
+173.194.210.95 content.googleapis.com
+173.194.210.95 storage.googleapis.com
+173.194.210.95 commondatastorage.googleapis.com
+173.194.212.97 google-analytics.com
+#203.208.48.158 www.google-analytics.com
+#203.208.48.158 www-google-analytics.l.google.com
+#203.208.48.158 ssl.google-analytics.com
+216.58.221.190 cache.pack.google.com
+216.58.221.190 cache.l.google.com
+216.58.221.190 browserchannel-spreadsheets.l.google.com
+216.58.221.190 browsersync.google.com
+216.58.221.190 browserchannel-docs.l.google.com
+216.58.221.190 browsersync.l.google.com
+173.194.212.125 talk.google.com
+173.194.212.125 talkx.l.google.com
+173.194.212.125 talk.l.google.com
+173.194.212.125 talkgadget.google.com
+173.194.212.188 mobile-gtalk.l.google.com
+173.194.212.188 mobile.l.google.com
+173.194.212.188 mtalk.google.com
+#(mtalk.google.com需使用开放5228端口的IP，一般以188结尾）
+173.194.212.211 ext.google.com
+173.194.212.211 proxy.googlezip.net
+216.58.221.190 encrypted-tbn.l.google.com
+216.58.221.190 encrypted-tbn0.google.com
+216.58.221.190 encrypted-tbn1.google.com
+216.58.221.190 encrypted-tbn2.google.com
+216.58.221.190 encrypted-tbn3.google.com
+216.58.221.190 tbn0.google.com
+216.58.221.190 tbn1.google.com
+216.58.221.190 tbn2.google.com
+216.58.221.190 tbn3.google.com
+173.194.210.95 mt0.googleapis.com
+173.194.210.95 mt1.googleapis.com
+173.194.210.95 mt2.googleapis.com
+173.194.210.95 mt3.googleapis.com
+173.194.210.192 supl.google.com
+#(supl.google.com需使用开放7272端口的IP，一般以192结尾）
+
+#Developer
+216.58.221.190 developer.google.com
+216.58.221.190 developers.google.com
+216.58.221.190 code.google.com
+216.58.221.190 code.l.google.com
+216.58.221.190 googlecode.l.google.com
+216.58.221.190 googlecode.com
+216.58.221.190 www.googlecode.com
+216.58.221.190 cjxlist1.googlecode.com
+216.58.221.190 haoutil.googlecode.com
+216.58.221.190 autoproxy-gfwlist.googlecode.com
+216.58.221.190 earth-api-samples.googlecode.com
+216.58.221.190 chromium.googlecode.com
+216.58.221.190 googlesource.com
+216.58.221.190 www.googlesource.com
+216.58.221.190 chromium.googlesource.com
+216.58.221.190 chromium.org
+216.58.221.190 www.chromium.org
+216.58.221.190 dev.chromium.org
+216.58.221.190 blog.chromium.org
+216.58.221.190 coderview.chromium.org
+
+#Maps
+216.58.221.190 ditu.google.com
+216.58.221.190 map.google.com
+216.58.221.190 maps.google.com
+216.58.221.190 maps.google.com.hk
+216.58.221.190 local.google.com
+216.58.221.190 earth.google.com
+216.58.221.190 maps.l.google.com
+216.58.221.190 maps-api-ssl.google.com
+216.58.221.190 mapsengine.google.com
+216.58.221.190 mars.google.com
+216.58.221.190 maps.gstatic.com
+216.58.221.190 mt.google.com
+216.58.221.190 mt.l.google.com
+216.58.221.190 mt0.google.com
+216.58.221.190 mt1.google.com
+216.58.221.190 mt2.google.com
+216.58.221.190 mt3.google.com
+216.58.221.190 mts.google.com
+216.58.221.190 mts.l.google.com
+216.58.221.190 mts0.google.com
+216.58.221.190 mts1.google.com
+216.58.221.190 mts2.google.com
+216.58.221.190 mts3.google.com
+216.58.221.190 places.google.com
+216.58.221.190 khm.google.com
+216.58.221.190 khm.l.google.com
+216.58.221.190 khms.google.com
+216.58.221.190 khms.l.google.com
+216.58.221.190 khm0.google.com
+216.58.221.190 khm1.google.com
+216.58.221.190 khm2.google.com
+216.58.221.190 khm3.google.com
+216.58.221.190 khms0.google.com
+216.58.221.190 khms1.google.com
+216.58.221.190 khms2.google.com
+216.58.221.190 khms3.google.com
+
+#Mail
+173.194.210.17 mail.google.com
+173.194.210.17 isolated.mail.google.com
+173.194.210.17 www.gmail.com
+173.194.210.17 gmail.com
+173.194.210.17 chatenabled.mail.google.com
+173.194.210.17 isolated.mail.google.com
+173.194.210.17 filetransferenabled.mail.google.com
+#(SMTP、POP、IMAP部分，需使用开放465、587端口的IP，一般以108、109结尾)
+74.125.25.109 gmail-imap.l.google.com
+74.125.25.109 googlemail-imap.l.google.com
+74.125.25.109 gmail-smtp.l.google.com
+74.125.25.109 googlemail-smtp.l.google.com
+74.125.25.109 gmail-pop.l.google.com
+74.125.25.109 googlemail-pop.l.google.com
+74.125.25.109 imap.gmail.com
+74.125.25.109 imap.googlemail.com
+74.125.25.109 smtp.gmail.com
+74.125.25.109 smtp.googlemail.com
+74.125.25.109 pop.gmail.com
+74.125.25.109 pop.googlemail.com
+#(SMTP、POP、IMAP部分，需使用开放465、587端口的IP，一般以108、109结尾)
+
+
+#GoogleDrive&Docs
+216.58.221.190 docs.google.com
+216.58.221.190 drive.google.com
+216.58.221.190 googledrive.com
+216.58.221.190 docs0.google.com
+216.58.221.190 docs1.google.com
+216.58.221.190 docs2.google.com
+216.58.221.190 docs3.google.com
+216.58.221.190 docs4.google.com
+216.58.221.190 docs5.google.com
+216.58.221.190 docs6.google.com
+216.58.221.190 docs7.google.com
+216.58.221.190 docs8.google.com
+216.58.221.190 docs9.google.com
+216.58.221.190 0.docs.google.com
+216.58.221.190 0.drive.google.com
+216.58.221.190 1.docs.google.com
+216.58.221.190 1.drive.google.com
+216.58.221.190 2.docs.google.com
+216.58.221.190 2.drive.google.com
+216.58.221.190 3.docs.google.com
+216.58.221.190 3.drive.google.com
+216.58.221.190 4.docs.google.com
+216.58.221.190 4.drive.google.com
+216.58.221.190 5.docs.google.com
+216.58.221.190 5.drive.google.com
+216.58.221.190 6.docs.google.com
+216.58.221.190 6.drive.google.com
+216.58.221.190 7.docs.google.com
+216.58.221.190 7.drive.google.com
+216.58.221.190 8.docs.google.com
+216.58.221.190 8.drive.google.com
+216.58.221.190 9.docs.google.com
+216.58.221.190 9.drive.google.com
+216.58.221.190 10.docs.google.com
+216.58.221.190 10.drive.google.com
+216.58.221.190 11.docs.google.com
+216.58.221.190 11.drive.google.com
+216.58.221.190 12.docs.google.com
+216.58.221.190 12.drive.google.com
+216.58.221.190 13.docs.google.com
+216.58.221.190 13.drive.google.com
+216.58.221.190 14.docs.google.com
+216.58.221.190 14.drive.google.com
+216.58.221.190 15.docs.google.com
+216.58.221.190 15.drive.google.com
+216.58.221.190 16.docs.google.com
+216.58.221.190 16.drive.google.com
+
+#GoogleUsercontent
+216.58.221.190 www.googleusercontent.com
+216.58.221.190 translate.googleusercontent.com
+216.58.221.190 googlehosted.l.googleusercontent.com
+216.58.221.190 themes.googleusercontent.com
+216.58.221.199 mail-attachment.googleusercontent.com
+216.58.221.190 oauth.googleusercontent.com
+216.58.221.190 feedback.googleusercontent.com
+216.58.221.190 images1-focus-opensocial.googleusercontent.com
+216.58.221.190 images2-focus-opensocial.googleusercontent.com
+216.58.221.190 code-opensocial.googleusercontent.com
+216.58.221.190 clients1.googleusercontent.com
+216.58.221.190 clients3.googleusercontent.com
+216.58.221.190 clients4.googleusercontent.com
+216.58.221.190 clients5.googleusercontent.com
+216.58.221.190 clients6.googleusercontent.com
+216.58.221.190 clients7.googleusercontent.com
+216.58.221.190 ci1.googleusercontent.com
+216.58.221.190 ci2.googleusercontent.com
+216.58.221.190 ci3.googleusercontent.com
+216.58.221.190 ci4.googleusercontent.com
+216.58.221.190 ci5.googleusercontent.com
+216.58.221.190 ci6.googleusercontent.com
+216.58.221.190 doc-0s-7c-docs.googleusercontent.com
+216.58.221.190 doc-00-7o-docs.googleusercontent.com
+216.58.221.190 doc-01-7o-docs.googleusercontent.com
+216.58.221.190 doc-02-7o-docs.googleusercontent.com
+216.58.221.190 doc-03-7o-docs.googleusercontent.com
+216.58.221.190 doc-04-7o-docs.googleusercontent.com
+216.58.221.190 doc-05-7o-docs.googleusercontent.com
+216.58.221.190 doc-06-7o-docs.googleusercontent.com
+216.58.221.190 doc-07-7o-docs.googleusercontent.com
+216.58.221.190 doc-08-7o-docs.googleusercontent.com
+216.58.221.190 doc-09-7o-docs.googleusercontent.com
+216.58.221.190 doc-10-7o-docs.googleusercontent.com
+216.58.221.190 doc-0a-7o-docs.googleusercontent.com
+216.58.221.190 doc-0b-7o-docs.googleusercontent.com
+216.58.221.190 doc-0c-7o-docs.googleusercontent.com
+216.58.221.190 doc-0d-7o-docs.googleusercontent.com
+216.58.221.190 doc-0e-7o-docs.googleusercontent.com
+216.58.221.190 doc-0f-7o-docs.googleusercontent.com
+216.58.221.190 doc-0g-7o-docs.googleusercontent.com
+216.58.221.190 doc-0h-7o-docs.googleusercontent.com
+216.58.221.190 doc-0i-7o-docs.googleusercontent.com
+216.58.221.190 doc-0j-7o-docs.googleusercontent.com
+216.58.221.190 doc-0k-7o-docs.googleusercontent.com
+216.58.221.190 doc-0l-7o-docs.googleusercontent.com
+216.58.221.190 doc-0m-7o-docs.googleusercontent.com
+216.58.221.190 doc-0n-7o-docs.googleusercontent.com
+216.58.221.190 doc-0o-7o-docs.googleusercontent.com
+216.58.221.190 doc-0p-7o-docs.googleusercontent.com
+216.58.221.190 doc-0q-7o-docs.googleusercontent.com
+216.58.221.190 doc-0r-7o-docs.googleusercontent.com
+216.58.221.190 doc-0s-7o-docs.googleusercontent.com
+216.58.221.190 doc-0t-7o-docs.googleusercontent.com
+216.58.221.190 doc-00-bc-docs.googleusercontent.com
+216.58.221.190 doc-01-bc-docs.googleusercontent.com
+216.58.221.190 doc-02-bc-docs.googleusercontent.com
+216.58.221.190 doc-03-bc-docs.googleusercontent.com
+216.58.221.190 doc-04-bc-docs.googleusercontent.com
+216.58.221.190 doc-05-bc-docs.googleusercontent.com
+216.58.221.190 doc-06-bc-docs.googleusercontent.com
+216.58.221.190 doc-07-bc-docs.googleusercontent.com
+216.58.221.190 doc-08-bc-docs.googleusercontent.com
+216.58.221.190 doc-09-bc-docs.googleusercontent.com
+216.58.221.190 doc-10-bc-docs.googleusercontent.com
+216.58.221.190 doc-0a-bc-docs.googleusercontent.com
+216.58.221.190 doc-0b-bc-docs.googleusercontent.com
+216.58.221.190 doc-0c-bc-docs.googleusercontent.com
+216.58.221.190 doc-0d-bc-docs.googleusercontent.com
+216.58.221.190 doc-0e-bc-docs.googleusercontent.com
+216.58.221.190 doc-0f-bc-docs.googleusercontent.com
+216.58.221.190 doc-0g-bc-docs.googleusercontent.com
+216.58.221.190 doc-0h-bc-docs.googleusercontent.com
+216.58.221.190 doc-0i-bc-docs.googleusercontent.com
+216.58.221.190 doc-0j-bc-docs.googleusercontent.com
+216.58.221.190 doc-0k-bc-docs.googleusercontent.com
+216.58.221.190 doc-0l-bc-docs.googleusercontent.com
+216.58.221.190 doc-0m-bc-docs.googleusercontent.com
+216.58.221.190 doc-0n-bc-docs.googleusercontent.com
+216.58.221.190 doc-0o-bc-docs.googleusercontent.com
+216.58.221.190 doc-0p-bc-docs.googleusercontent.com
+216.58.221.190 doc-0q-bc-docs.googleusercontent.com
+216.58.221.190 doc-0r-bc-docs.googleusercontent.com
+216.58.221.190 doc-0s-bc-docs.googleusercontent.com
+216.58.221.190 doc-0t-bc-docs.googleusercontent.com
+216.58.221.190 doc-00-1s-docs.googleusercontent.com
+216.58.221.190 doc-01-1s-docs.googleusercontent.com
+216.58.221.190 doc-02-1s-docs.googleusercontent.com
+216.58.221.190 doc-03-1s-docs.googleusercontent.com
+216.58.221.190 doc-04-1s-docs.googleusercontent.com
+216.58.221.190 doc-05-1s-docs.googleusercontent.com
+216.58.221.190 doc-06-1s-docs.googleusercontent.com
+216.58.221.190 doc-07-1s-docs.googleusercontent.com
+216.58.221.190 doc-08-1s-docs.googleusercontent.com
+216.58.221.190 doc-09-1s-docs.googleusercontent.com
+216.58.221.190 doc-10-1s-docs.googleusercontent.com
+216.58.221.190 doc-0a-1s-docs.googleusercontent.com
+216.58.221.190 doc-0b-1s-docs.googleusercontent.com
+216.58.221.190 doc-0c-1s-docs.googleusercontent.com
+216.58.221.190 doc-0d-1s-docs.googleusercontent.com
+216.58.221.190 doc-0e-1s-docs.googleusercontent.com
+216.58.221.190 doc-0f-1s-docs.googleusercontent.com
+216.58.221.190 doc-0g-1s-docs.googleusercontent.com
+216.58.221.190 doc-0h-1s-docs.googleusercontent.com
+216.58.221.190 doc-0i-1s-docs.googleusercontent.com
+216.58.221.190 doc-0j-1s-docs.googleusercontent.com
+216.58.221.190 doc-0k-1s-docs.googleusercontent.com
+216.58.221.190 doc-0l-1s-docs.googleusercontent.com
+216.58.221.190 doc-0m-1s-docs.googleusercontent.com
+216.58.221.190 doc-0n-1s-docs.googleusercontent.com
+216.58.221.190 doc-0o-1s-docs.googleusercontent.com
+216.58.221.190 doc-0p-1s-docs.googleusercontent.com
+216.58.221.190 doc-0q-1s-docs.googleusercontent.com
+216.58.221.190 doc-0r-1s-docs.googleusercontent.com
+216.58.221.190 doc-0s-1s-docs.googleusercontent.com
+216.58.221.190 doc-0t-1s-docs.googleusercontent.com
+216.58.221.190 doc-04-80-docs.googleusercontent.com
+216.58.221.190 doc-08-6g-docs.googleusercontent.com
+216.58.221.190 doc-0k-bk-docs.googleusercontent.com
+216.58.221.190 doc-10-6g-docs.googleusercontent.com
+216.58.221.190 doc-10-00-docs.googleusercontent.com
+216.58.221.190 doc-0k-7c-docs.googleusercontent.com
+216.58.221.190 doc-04-b8-docs.googleusercontent.com
+216.58.221.190 images1-focus-opensocial.googleusercontent.com
+216.58.221.190 images2-focus-opensocial.googleusercontent.com
+216.58.221.190 images3-focus-opensocial.googleusercontent.com
+216.58.221.190 images4-focus-opensocial.googleusercontent.com
+216.58.221.190 images5-focus-opensocial.googleusercontent.com
+216.58.221.190 images6-focus-opensocial.googleusercontent.com
+216.58.221.190 images7-focus-opensocial.googleusercontent.com
+216.58.221.190 images8-focus-opensocial.googleusercontent.com
+216.58.221.190 images9-focus-opensocial.googleusercontent.com
+216.58.221.190 images1-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images2-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images3-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images4-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images5-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images6-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images7-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images8-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images9-esmobile-opensocial.googleusercontent.com
+216.58.221.190 images-docs-opensocial.googleusercontent.com
+216.58.221.190 images-oz-opensocial.googleusercontent.com
+216.58.221.190 images-lso-opensocial.googleusercontent.com
+216.58.221.190 images-pos-opensocial.googleusercontent.com
+216.58.221.190 googlecode.l.googleusercontent.com
+216.58.221.190 lh0.ggpht.com
+216.58.221.190 lh1.ggpht.com
+216.58.221.190 lh2.ggpht.com
+216.58.221.190 lh3.ggpht.com
+216.58.221.190 lh4.ggpht.com
+216.58.221.190 lh5.ggpht.com
+216.58.221.190 lh6.ggpht.com
+216.58.221.190 nt0.ggpht.com
+216.58.221.190 nt1.ggpht.com
+216.58.221.190 nt2.ggpht.com
+216.58.221.190 nt3.ggpht.com
+216.58.221.190 nt4.ggpht.com
+216.58.221.190 nt5.ggpht.com
+216.58.221.190 nt6.ggpht.com
+216.58.221.190 t.doc-0-0-sj.sj.googleusercontent.com
+216.58.221.190 blogger.googleusercontent.com
+216.58.221.190 images-blogger-opensocial.googleusercontent.com
+216.58.221.190 webcache.googleusercontent.com
+
+#Clients
+216.58.221.190 clients.l.google.com
+216.58.221.190 linkhelp.clients.google.com
+216.58.221.190 clients1.google.com
+216.58.221.190 clients3.google.com
+216.58.221.190 clients5.google.com
+216.58.221.190 clients6.google.com
+216.58.221.190 clients7.google.com
+216.58.221.190 0.client-channel.google.com
+216.58.221.190 1.client-channel.google.com
+216.58.221.190 2.client-channel.google.com
+216.58.221.190 3.client-channel.google.com
+216.58.221.190 4.client-channel.google.com
+216.58.221.190 5.client-channel.google.com
+216.58.221.190 6.client-channel.google.com
+216.58.221.190 7.client-channel.google.com
+216.58.221.190 8.client-channel.google.com
+216.58.221.190 9.client-channel.google.com
+216.58.221.190 10.client-channel.google.com
+216.58.221.190 11.client-channel.google.com
+216.58.221.190 12.client-channel.google.com
+216.58.221.190 13.client-channel.google.com
+216.58.221.190 14.client-channel.google.com
+216.58.221.190 15.client-channel.google.com
+216.58.221.190 16.client-channel.google.com
+216.58.221.190 17.client-channel.google.com
+216.58.221.190 18.client-channel.google.com
+216.58.221.190 19.client-channel.google.com
+216.58.221.190 20.client-channel.google.com
+216.58.221.190 21.client-channel.google.com
+216.58.221.190 22.client-channel.google.com
+216.58.221.190 23.client-channel.google.com
+216.58.221.190 24.client-channel.google.com
+216.58.221.190 25.client-channel.google.com
+216.58.221.190 26.client-channel.google.com
+216.58.221.190 27.client-channel.google.com
+216.58.221.190 28.client-channel.google.com
+216.58.221.190 29.client-channel.google.com
+
+#Upload
+216.58.221.190 uploads.clients.google.com
+216.58.221.190 uploads.client.google.com
+216.58.221.190 upload.clients.google.com
+216.58.221.190 upload.client.google.com
+216.58.221.190 upload.google.com
+216.58.221.190 upload.docs.google.com
+216.58.221.190 upload.photos.google.com
+216.58.221.190 upload.drive.google.com
+216.58.221.190 uploads.code.google.com
+216.58.221.190 uploads.clients.google.com
+216.58.221.190 large-uploads.l.google.com
+
+#Blog
+173.194.212.191 googlechromereleases.blogspot.com
+173.194.212.191 googleblog.blogspot.com
+173.194.212.191 google-opensource.blogspot.com
+173.194.212.191 1.bp.blogspot.com
+173.194.212.191 2.bp.blogspot.com
+173.194.212.191 3.bp.blogspot.com
+173.194.212.191 4.bp.blogspot.com
+173.194.212.191 www.blogger.com
+173.194.212.191 www.blogblog.com
+173.194.212.191 img1.blogblog.com
+173.194.212.191 img2.blogblog.com
+216.58.221.190 feeds.feedburner.com
+
+#Others
+72.14.249.180 www.ingress.com
+#72.14.249.180 ghs.google.com
+#72.14.249.180 ghs.l.google.com
+72.14.249.180 ghs-svc-https-c1169.ghs-ssl.googlehosted.com
+
+#Gravatar
+68.232.44.121	0.gravatar.com
+68.232.44.121	1.gravatar.com
+68.232.44.121	2.gravatar.com
+68.232.44.121	3.gravatar.com
+68.232.44.121	4.gravatar.com
+68.232.44.121	5.gravatar.com
+68.232.44.121	6.gravatar.com
+
+#[End]
+#本hosts仅供学习、研究、工作、正常使用Google Chrome，请勿用于其他非法用途
