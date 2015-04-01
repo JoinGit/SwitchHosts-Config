@@ -18,6 +18,9 @@
 192.168.1.24 skd.java.com
 #192.168.1.24 gitlab.skd.com.cn
 
+192.168.1.24 health-nexus-repository
+
 
 #192.168.0.111 gitlab.example.com
-192.168.1.210 gitlab.example.com
+#192.168.1.210 gitlab.example.com
+192.168.1.210 gitlab.jerry.com
