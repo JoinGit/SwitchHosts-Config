@@ -1,0 +1,605 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+#Update Time 2015-04-01 17:45
+
+#[Start]
+
+#WebStore&Extensions
+173.194.210.100 clients2.google.com
+173.194.210.100 chrome.google.com
+59.18.34.173 clients2.googleusercontent.com
+59.18.34.173 lh0.googleusercontent.com
+59.18.34.173 lh1.googleusercontent.com
+59.18.34.173 lh2.googleusercontent.com
+59.18.34.173 lh3.googleusercontent.com
+59.18.34.173 lh4.googleusercontent.com
+59.18.34.173 lh5.googleusercontent.com
+59.18.34.173 lh6.googleusercontent.com
+
+#Bookmarks
+173.194.210.100 clients4.google.com
+173.194.210.100 clients4.googleusercontent.com
+
+#Accounts
+173.194.210.100 accounts.google.com
+173.194.210.100 accounts.l.google.com
+173.194.210.100 accounts.google.com.hk
+173.194.210.100 myaccount.google.com
+
+#Page
+173.194.210.100 google.com
+173.194.210.100 www.google.com
+173.194.210.100 www.google.com.hk
+173.194.210.100 scholar.l.google.com
+173.194.210.100 scholar.google.com
+173.194.210.100 scholar.google.com.hk
+173.194.210.100 scholar.google.com.tw
+173.194.210.100 books.google.com
+173.194.210.100 books.google.com.hk
+173.194.210.100 appengine.google.com
+173.194.210.100 inbox.google.com
+173.194.210.100 support.google.com
+173.194.210.100 desktop.google.com
+173.194.210.100 desktop.google.com.hk
+173.194.210.100 desktop.l.google.com
+173.194.210.100 desktop1.google.com
+173.194.210.100 desktop2.google.com
+173.194.212.137 groups.google.com
+173.194.212.137 groups.google.com.hk
+173.194.212.137 groups.google.com.tw
+173.194.212.137 groups.l.google.com
+173.194.212.137 groups-beta.google.com
+173.194.210.100 photos.google.com
+173.194.210.100 image.google.com
+173.194.210.100 image.google.com.hk
+173.194.210.100 images.google.com
+173.194.210.100 images.google.com.hk
+173.194.210.100 images.l.google.com
+173.194.210.100 plus.google.com
+173.194.210.100 plus.url.google.com
+173.194.210.100 keep.google.com
+173.194.210.100 script.google.com
+173.194.210.100 id.google.com
+173.194.210.100 id.google.com.hk
+173.194.210.100 id.l.google.com
+173.194.210.100 sandbox.google.com
+173.194.210.100 sandbox.l.google.com
+173.194.210.100 labs.google.com
+173.194.210.100 sites.google.com
+173.194.210.100 translate.google.com
+173.194.210.100 translate.google.com.hk
+173.194.210.100 translate.google.com.tw
+173.194.210.100 news.google.com
+173.194.210.100 news.google.com.hk
+173.194.210.100 checkout.google.com
+173.194.210.100 checkout.l.google.com
+173.194.210.100 adwords.google.com
+173.194.210.100 domains.google.com
+173.194.210.100 wallet.google.com
+173.194.210.100 tools.google.com
+173.194.210.100 tools.l.google.com
+173.194.210.100 toolbar.google.com
+173.194.210.100 security.google.com
+173.194.210.100 history.google.com
+173.194.210.100 www.googleadsercices.com
+173.194.210.100 picasa.google.com
+173.194.210.100 picasaweb.google.com
+173.194.210.100 g.co
+173.194.210.100 goo.gl
+173.194.210.100 chrome.com
+#173.194.210.193 m.google.com
+#173.194.210.100 dl.google.com
+#173.194.210.100 dl.l.google.com
+173.194.210.100 dl-ssl.google.com
+173.194.210.100 hangout.google.com
+173.194.210.100 hangouts.google.com
+173.194.212.125 talk.google.com
+173.194.212.125 talkx.l.google.com
+173.194.212.125 talk.l.google.com
+173.194.212.125 talkgadget.google.com
+173.194.212.188 mobile-gtalk.l.google.com
+173.194.212.188 mobile.l.google.com
+173.194.212.188 mtalk.google.com
+#(mtalk.google.com需使用开放5228端口的IP，一般以188结尾）
+173.194.210.100 www.l.google.com
+173.194.210.100 www0.l.google.com
+173.194.210.100 www1.l.google.com
+173.194.210.100 www2.l.google.com
+173.194.210.100 www3.l.google.com
+173.194.210.100 www4.l.google.com
+
+#Gstatic
+173.194.210.100 gstatic.com
+173.194.210.100 ssl.gstatic.com
+173.194.210.100 www.gstatic.com
+173.194.210.100 mt0.gstatic.com
+173.194.210.100 mt1.gstatic.com
+173.194.210.100 mt2.gstatic.com
+173.194.210.100 mt3.gstatic.com
+173.194.210.100 mt4.gstatic.com
+173.194.210.100 mt5.gstatic.com
+173.194.210.100 mt6.gstatic.com
+173.194.210.100 mt7.gstatic.com
+173.194.210.100 t0.gstatic.com
+173.194.210.100 t1.gstatic.com
+173.194.210.100 t2.gstatic.com
+173.194.210.100 t3.gstatic.com
+173.194.210.100 t4.gstatic.com
+173.194.210.100 t5.gstatic.com
+173.194.210.100 t6.gstatic.com
+173.194.210.100 t7.gstatic.com
+173.194.210.100 encrypted-tbn.l.google.com
+173.194.210.100 encrypted-tbn0.gstatic.com
+173.194.210.100 encrypted-tbn1.gstatic.com
+173.194.210.100 encrypted-tbn2.gstatic.com
+173.194.210.100 encrypted-tbn3.gstatic.com
+173.194.210.100 encrypted-tbn4.gstatic.com
+173.194.210.100 encrypted-tbn5.gstatic.com
+173.194.210.100 encrypted-tbn6.gstatic.com
+173.194.210.100 fonts.gstatic.com
+173.194.210.100 csi.gstatic.com
+173.194.210.100 csi.l.google.com
+
+#GoogleApis
+173.194.210.95 googleapis.com
+173.194.210.95 www.googleapis.com
+173.194.210.95 apis.google.com
+173.194.210.95 googleapis.l.google.com
+173.194.210.95 translate.googleapis.com
+173.194.210.95 ajax.googleapis.com
+173.194.210.95 googleapis-ajax.google.com
+173.194.210.95 googleapis-ajax.l.google.com
+#173.194.210.95 fonts.googleapis.com
+173.194.210.95 maps.googleapis.com
+173.194.210.95 plus.googleapis.com
+173.194.210.95 chart.googleapis.com
+173.194.210.95 content.googleapis.com
+173.194.210.95 storage.googleapis.com
+173.194.210.95 commondatastorage.googleapis.com
+173.194.212.97 google-analytics.com
+#203.208.48.158 www.google-analytics.com
+#203.208.48.158 www-google-analytics.l.google.com
+#203.208.48.158 ssl.google-analytics.com
+173.194.210.100 cache.pack.google.com
+173.194.210.100 cache.l.google.com
+173.194.210.100 safebrowsing.google.com
+173.194.210.100 safebrowsing.clients.google.com
+173.194.210.100 safebrowsing-cache.google.com
+173.194.210.100 safebrowsing.cache.l.google.com
+173.194.210.100 browserchannel-spreadsheets.l.google.com
+173.194.210.100 browsersync.google.com
+173.194.210.100 browserchannel-docs.l.google.com
+173.194.210.100 browsersync.l.google.com
+173.194.212.211 ext.google.com
+173.194.212.211 proxy.googlezip.net
+173.194.210.100 encrypted-tbn.l.google.com
+173.194.210.100 encrypted-tbn0.google.com
+173.194.210.100 encrypted-tbn1.google.com
+173.194.210.100 encrypted-tbn2.google.com
+173.194.210.100 encrypted-tbn3.google.com
+173.194.210.100 tbn0.google.com
+173.194.210.100 tbn1.google.com
+173.194.210.100 tbn2.google.com
+173.194.210.100 tbn3.google.com
+173.194.210.95 mt0.googleapis.com
+173.194.210.95 mt1.googleapis.com
+173.194.210.95 mt2.googleapis.com
+173.194.210.95 mt3.googleapis.com
+173.194.210.192 supl.google.com
+#(supl.google.com需使用开放7272端口的IP，一般以192结尾）
+
+#Developer
+173.194.210.100 developer.google.com
+173.194.210.100 developers.google.com
+173.194.210.100 code.google.com
+173.194.210.100 code.l.google.com
+173.194.210.100 googlecode.l.google.com
+173.194.210.100 googlecode.com
+173.194.210.100 www.googlecode.com
+173.194.210.100 cjxlist1.googlecode.com
+173.194.210.100 haoutil.googlecode.com
+173.194.210.100 autoproxy-gfwlist.googlecode.com
+173.194.210.100 earth-api-samples.googlecode.com
+173.194.210.100 chromium.googlecode.com
+173.194.210.100 googlesource.com
+173.194.210.100 www.googlesource.com
+173.194.210.100 chromium.googlesource.com
+173.194.210.100 chromium.org
+173.194.210.100 www.chromium.org
+173.194.210.100 dev.chromium.org
+173.194.210.100 blog.chromium.org
+173.194.210.100 coderview.chromium.org
+
+#Maps
+173.194.210.100 ditu.google.com
+173.194.210.100 map.google.com
+173.194.210.100 maps.google.com
+173.194.210.100 maps.google.com.hk
+173.194.210.100 local.google.com
+173.194.210.100 earth.google.com
+173.194.210.100 maps.l.google.com
+173.194.210.100 maps-api-ssl.google.com
+173.194.210.100 mapsengine.google.com
+173.194.210.100 mars.google.com
+173.194.210.100 maps.gstatic.com
+173.194.210.100 mt.google.com
+173.194.210.100 mt.l.google.com
+173.194.210.100 mt0.google.com
+173.194.210.100 mt1.google.com
+173.194.210.100 mt2.google.com
+173.194.210.100 mt3.google.com
+173.194.210.100 mts.google.com
+173.194.210.100 mts.l.google.com
+173.194.210.100 mts0.google.com
+173.194.210.100 mts1.google.com
+173.194.210.100 mts2.google.com
+173.194.210.100 mts3.google.com
+173.194.210.100 places.google.com
+173.194.210.100 khm.google.com
+173.194.210.100 khm.l.google.com
+173.194.210.100 khms.google.com
+173.194.210.100 khms.l.google.com
+173.194.210.100 khm0.google.com
+173.194.210.100 khm1.google.com
+173.194.210.100 khm2.google.com
+173.194.210.100 khm3.google.com
+173.194.210.100 khms0.google.com
+173.194.210.100 khms1.google.com
+173.194.210.100 khms2.google.com
+173.194.210.100 khms3.google.com
+
+#Mail
+173.194.210.17 mail.google.com
+173.194.210.17 googlemail.l.google.com
+173.194.210.17 isolated.mail.google.com
+173.194.210.17 www.gmail.com
+173.194.210.17 gmail.com
+173.194.210.100 gmail.google.com
+173.194.210.17 chatenabled.mail.google.com
+173.194.210.17 isolated.mail.google.com
+173.194.210.17 filetransferenabled.mail.google.com
+#(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以108、109结尾)
+173.194.210.109 gmail-imap.l.google.com
+173.194.210.109 googlemail-imap.l.google.com
+173.194.210.109 gmail-smtp.l.google.com
+173.194.210.109 googlemail-smtp.l.google.com
+173.194.210.109 gmail-pop.l.google.com
+173.194.210.109 googlemail-pop.l.google.com
+173.194.210.109 imap.gmail.com
+173.194.210.109 imap.googlemail.com
+173.194.210.109 smtp.gmail.com
+173.194.210.109 smtp.googlemail.com
+173.194.210.109 pop.gmail.com
+173.194.210.109 pop.googlemail.com
+#(SMTP、POP、IMAP部分，需使用开放465、587、993、995端口的IP，一般以108、109结尾)
+
+
+#GoogleDrive&Docs
+173.194.210.100 docs.google.com
+173.194.210.100 drive.google.com
+173.194.210.100 googledrive.com
+173.194.210.100 docs0.google.com
+173.194.210.100 docs1.google.com
+173.194.210.100 docs2.google.com
+173.194.210.100 docs3.google.com
+173.194.210.100 docs4.google.com
+173.194.210.100 docs5.google.com
+173.194.210.100 docs6.google.com
+173.194.210.100 docs7.google.com
+173.194.210.100 docs8.google.com
+173.194.210.100 docs9.google.com
+173.194.210.100 0.docs.google.com
+173.194.210.100 0.drive.google.com
+173.194.210.100 1.docs.google.com
+173.194.210.100 1.drive.google.com
+173.194.210.100 2.docs.google.com
+173.194.210.100 2.drive.google.com
+173.194.210.100 3.docs.google.com
+173.194.210.100 3.drive.google.com
+173.194.210.100 4.docs.google.com
+173.194.210.100 4.drive.google.com
+173.194.210.100 5.docs.google.com
+173.194.210.100 5.drive.google.com
+173.194.210.100 6.docs.google.com
+173.194.210.100 6.drive.google.com
+173.194.210.100 7.docs.google.com
+173.194.210.100 7.drive.google.com
+173.194.210.100 8.docs.google.com
+173.194.210.100 8.drive.google.com
+173.194.210.100 9.docs.google.com
+173.194.210.100 9.drive.google.com
+173.194.210.100 10.docs.google.com
+173.194.210.100 10.drive.google.com
+173.194.210.100 11.docs.google.com
+173.194.210.100 11.drive.google.com
+173.194.210.100 12.docs.google.com
+173.194.210.100 12.drive.google.com
+173.194.210.100 13.docs.google.com
+173.194.210.100 13.drive.google.com
+173.194.210.100 14.docs.google.com
+173.194.210.100 14.drive.google.com
+173.194.210.100 15.docs.google.com
+173.194.210.100 15.drive.google.com
+173.194.210.100 16.docs.google.com
+173.194.210.100 16.drive.google.com
+
+#GoogleUsercontent
+173.194.210.100 www.googleusercontent.com
+173.194.210.100 translate.googleusercontent.com
+173.194.210.100 googlehosted.l.googleusercontent.com
+173.194.210.100 themes.googleusercontent.com
+216.58.221.199 mail-attachment.googleusercontent.com
+173.194.210.100 oauth.googleusercontent.com
+173.194.210.100 feedback.googleusercontent.com
+173.194.210.100 images1-focus-opensocial.googleusercontent.com
+173.194.210.100 images2-focus-opensocial.googleusercontent.com
+173.194.210.100 code-opensocial.googleusercontent.com
+173.194.210.100 clients1.googleusercontent.com
+173.194.210.100 clients3.googleusercontent.com
+173.194.210.100 clients4.googleusercontent.com
+173.194.210.100 clients5.googleusercontent.com
+173.194.210.100 clients6.googleusercontent.com
+173.194.210.100 clients7.googleusercontent.com
+173.194.210.100 s1.googleusercontent.com
+173.194.210.100 s2.googleusercontent.com
+173.194.210.100 s3.googleusercontent.com
+173.194.210.100 s4.googleusercontent.com
+173.194.210.100 s5.googleusercontent.com
+173.194.210.100 s6.googleusercontent.com
+173.194.210.100 ci1.googleusercontent.com
+173.194.210.100 ci2.googleusercontent.com
+173.194.210.100 ci3.googleusercontent.com
+173.194.210.100 ci4.googleusercontent.com
+173.194.210.100 ci5.googleusercontent.com
+173.194.210.100 ci6.googleusercontent.com
+173.194.210.100 doc-0s-7c-docs.googleusercontent.com
+173.194.210.100 doc-00-7o-docs.googleusercontent.com
+173.194.210.100 doc-01-7o-docs.googleusercontent.com
+173.194.210.100 doc-02-7o-docs.googleusercontent.com
+173.194.210.100 doc-03-7o-docs.googleusercontent.com
+173.194.210.100 doc-04-7o-docs.googleusercontent.com
+173.194.210.100 doc-05-7o-docs.googleusercontent.com
+173.194.210.100 doc-06-7o-docs.googleusercontent.com
+173.194.210.100 doc-07-7o-docs.googleusercontent.com
+173.194.210.100 doc-08-7o-docs.googleusercontent.com
+173.194.210.100 doc-09-7o-docs.googleusercontent.com
+173.194.210.100 doc-10-7o-docs.googleusercontent.com
+173.194.210.100 doc-0a-7o-docs.googleusercontent.com
+173.194.210.100 doc-0b-7o-docs.googleusercontent.com
+173.194.210.100 doc-0c-7o-docs.googleusercontent.com
+173.194.210.100 doc-0d-7o-docs.googleusercontent.com
+173.194.210.100 doc-0e-7o-docs.googleusercontent.com
+173.194.210.100 doc-0f-7o-docs.googleusercontent.com
+173.194.210.100 doc-0g-7o-docs.googleusercontent.com
+173.194.210.100 doc-0h-7o-docs.googleusercontent.com
+173.194.210.100 doc-0i-7o-docs.googleusercontent.com
+173.194.210.100 doc-0j-7o-docs.googleusercontent.com
+173.194.210.100 doc-0k-7o-docs.googleusercontent.com
+173.194.210.100 doc-0l-7o-docs.googleusercontent.com
+173.194.210.100 doc-0m-7o-docs.googleusercontent.com
+173.194.210.100 doc-0n-7o-docs.googleusercontent.com
+173.194.210.100 doc-0o-7o-docs.googleusercontent.com
+173.194.210.100 doc-0p-7o-docs.googleusercontent.com
+173.194.210.100 doc-0q-7o-docs.googleusercontent.com
+173.194.210.100 doc-0r-7o-docs.googleusercontent.com
+173.194.210.100 doc-0s-7o-docs.googleusercontent.com
+173.194.210.100 doc-0t-7o-docs.googleusercontent.com
+173.194.210.100 doc-00-bc-docs.googleusercontent.com
+173.194.210.100 doc-01-bc-docs.googleusercontent.com
+173.194.210.100 doc-02-bc-docs.googleusercontent.com
+173.194.210.100 doc-03-bc-docs.googleusercontent.com
+173.194.210.100 doc-04-bc-docs.googleusercontent.com
+173.194.210.100 doc-05-bc-docs.googleusercontent.com
+173.194.210.100 doc-06-bc-docs.googleusercontent.com
+173.194.210.100 doc-07-bc-docs.googleusercontent.com
+173.194.210.100 doc-08-bc-docs.googleusercontent.com
+173.194.210.100 doc-09-bc-docs.googleusercontent.com
+173.194.210.100 doc-10-bc-docs.googleusercontent.com
+173.194.210.100 doc-0a-bc-docs.googleusercontent.com
+173.194.210.100 doc-0b-bc-docs.googleusercontent.com
+173.194.210.100 doc-0c-bc-docs.googleusercontent.com
+173.194.210.100 doc-0d-bc-docs.googleusercontent.com
+173.194.210.100 doc-0e-bc-docs.googleusercontent.com
+173.194.210.100 doc-0f-bc-docs.googleusercontent.com
+173.194.210.100 doc-0g-bc-docs.googleusercontent.com
+173.194.210.100 doc-0h-bc-docs.googleusercontent.com
+173.194.210.100 doc-0i-bc-docs.googleusercontent.com
+173.194.210.100 doc-0j-bc-docs.googleusercontent.com
+173.194.210.100 doc-0k-bc-docs.googleusercontent.com
+173.194.210.100 doc-0l-bc-docs.googleusercontent.com
+173.194.210.100 doc-0m-bc-docs.googleusercontent.com
+173.194.210.100 doc-0n-bc-docs.googleusercontent.com
+173.194.210.100 doc-0o-bc-docs.googleusercontent.com
+173.194.210.100 doc-0p-bc-docs.googleusercontent.com
+173.194.210.100 doc-0q-bc-docs.googleusercontent.com
+173.194.210.100 doc-0r-bc-docs.googleusercontent.com
+173.194.210.100 doc-0s-bc-docs.googleusercontent.com
+173.194.210.100 doc-0t-bc-docs.googleusercontent.com
+173.194.210.100 doc-00-1s-docs.googleusercontent.com
+173.194.210.100 doc-01-1s-docs.googleusercontent.com
+173.194.210.100 doc-02-1s-docs.googleusercontent.com
+173.194.210.100 doc-03-1s-docs.googleusercontent.com
+173.194.210.100 doc-04-1s-docs.googleusercontent.com
+173.194.210.100 doc-05-1s-docs.googleusercontent.com
+173.194.210.100 doc-06-1s-docs.googleusercontent.com
+173.194.210.100 doc-07-1s-docs.googleusercontent.com
+173.194.210.100 doc-08-1s-docs.googleusercontent.com
+173.194.210.100 doc-09-1s-docs.googleusercontent.com
+173.194.210.100 doc-10-1s-docs.googleusercontent.com
+173.194.210.100 doc-0a-1s-docs.googleusercontent.com
+173.194.210.100 doc-0b-1s-docs.googleusercontent.com
+173.194.210.100 doc-0c-1s-docs.googleusercontent.com
+173.194.210.100 doc-0d-1s-docs.googleusercontent.com
+173.194.210.100 doc-0e-1s-docs.googleusercontent.com
+173.194.210.100 doc-0f-1s-docs.googleusercontent.com
+173.194.210.100 doc-0g-1s-docs.googleusercontent.com
+173.194.210.100 doc-0h-1s-docs.googleusercontent.com
+173.194.210.100 doc-0i-1s-docs.googleusercontent.com
+173.194.210.100 doc-0j-1s-docs.googleusercontent.com
+173.194.210.100 doc-0k-1s-docs.googleusercontent.com
+173.194.210.100 doc-0l-1s-docs.googleusercontent.com
+173.194.210.100 doc-0m-1s-docs.googleusercontent.com
+173.194.210.100 doc-0n-1s-docs.googleusercontent.com
+173.194.210.100 doc-0o-1s-docs.googleusercontent.com
+173.194.210.100 doc-0p-1s-docs.googleusercontent.com
+173.194.210.100 doc-0q-1s-docs.googleusercontent.com
+173.194.210.100 doc-0r-1s-docs.googleusercontent.com
+173.194.210.100 doc-0s-1s-docs.googleusercontent.com
+173.194.210.100 doc-0t-1s-docs.googleusercontent.com
+173.194.210.100 doc-04-80-docs.googleusercontent.com
+173.194.210.100 doc-08-6g-docs.googleusercontent.com
+173.194.210.100 doc-0k-bk-docs.googleusercontent.com
+173.194.210.100 doc-10-6g-docs.googleusercontent.com
+173.194.210.100 doc-10-00-docs.googleusercontent.com
+173.194.210.100 doc-0k-7c-docs.googleusercontent.com
+173.194.210.100 doc-04-b8-docs.googleusercontent.com
+173.194.210.100 images1-focus-opensocial.googleusercontent.com
+173.194.210.100 images2-focus-opensocial.googleusercontent.com
+173.194.210.100 images3-focus-opensocial.googleusercontent.com
+173.194.210.100 images4-focus-opensocial.googleusercontent.com
+173.194.210.100 images5-focus-opensocial.googleusercontent.com
+173.194.210.100 images6-focus-opensocial.googleusercontent.com
+173.194.210.100 images7-focus-opensocial.googleusercontent.com
+173.194.210.100 images8-focus-opensocial.googleusercontent.com
+173.194.210.100 images9-focus-opensocial.googleusercontent.com
+173.194.210.100 images1-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images2-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images3-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images4-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images5-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images6-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images7-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images8-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images9-esmobile-opensocial.googleusercontent.com
+173.194.210.100 images-docs-opensocial.googleusercontent.com
+173.194.210.100 images-oz-opensocial.googleusercontent.com
+173.194.210.100 images-lso-opensocial.googleusercontent.com
+173.194.210.100 images-pos-opensocial.googleusercontent.com
+173.194.210.100 googlecode.l.googleusercontent.com
+173.194.210.100 lh0.ggpht.com
+173.194.210.100 lh1.ggpht.com
+173.194.210.100 lh2.ggpht.com
+173.194.210.100 lh3.ggpht.com
+173.194.210.100 lh4.ggpht.com
+173.194.210.100 lh5.ggpht.com
+173.194.210.100 lh6.ggpht.com
+173.194.210.100 nt0.ggpht.com
+173.194.210.100 nt1.ggpht.com
+173.194.210.100 nt2.ggpht.com
+173.194.210.100 nt3.ggpht.com
+173.194.210.100 nt4.ggpht.com
+173.194.210.100 nt5.ggpht.com
+173.194.210.100 nt6.ggpht.com
+173.194.210.100 t.doc-0-0-sj.sj.googleusercontent.com
+173.194.210.100 blogger.googleusercontent.com
+173.194.210.100 images-blogger-opensocial.googleusercontent.com
+173.194.210.100 webcache.googleusercontent.com
+173.194.210.100 photos-ugc.l.google.com
+
+#Clients
+173.194.210.100 clients.l.google.com
+173.194.210.100 linkhelp.clients.google.com
+173.194.210.100 clients1.google.com
+173.194.210.100 clients3.google.com
+173.194.210.100 clients5.google.com
+173.194.210.100 clients6.google.com
+173.194.210.100 clients7.google.com
+173.194.210.100 0.client-channel.google.com
+173.194.210.100 1.client-channel.google.com
+173.194.210.100 2.client-channel.google.com
+173.194.210.100 3.client-channel.google.com
+173.194.210.100 4.client-channel.google.com
+173.194.210.100 5.client-channel.google.com
+173.194.210.100 6.client-channel.google.com
+173.194.210.100 7.client-channel.google.com
+173.194.210.100 8.client-channel.google.com
+173.194.210.100 9.client-channel.google.com
+173.194.210.100 10.client-channel.google.com
+173.194.210.100 11.client-channel.google.com
+173.194.210.100 12.client-channel.google.com
+173.194.210.100 13.client-channel.google.com
+173.194.210.100 14.client-channel.google.com
+173.194.210.100 15.client-channel.google.com
+173.194.210.100 16.client-channel.google.com
+173.194.210.100 17.client-channel.google.com
+173.194.210.100 18.client-channel.google.com
+173.194.210.100 19.client-channel.google.com
+173.194.210.100 20.client-channel.google.com
+173.194.210.100 21.client-channel.google.com
+173.194.210.100 22.client-channel.google.com
+173.194.210.100 23.client-channel.google.com
+173.194.210.100 24.client-channel.google.com
+173.194.210.100 25.client-channel.google.com
+173.194.210.100 26.client-channel.google.com
+173.194.210.100 27.client-channel.google.com
+173.194.210.100 28.client-channel.google.com
+173.194.210.100 29.client-channel.google.com
+
+#Upload
+173.194.210.100 uploads.clients.google.com
+173.194.210.100 uploads.client.google.com
+173.194.210.100 upload.clients.google.com
+173.194.210.100 upload.client.google.com
+173.194.210.100 upload.google.com
+173.194.210.100 upload.docs.google.com
+173.194.210.100 upload.photos.google.com
+173.194.210.100 upload.drive.google.com
+173.194.210.100 uploads.code.google.com
+173.194.210.100 uploads.clients.google.com
+173.194.210.100 large-uploads.l.google.com
+
+#Blog
+173.194.212.191 googlechromereleases.blogspot.com
+173.194.212.191 googleblog.blogspot.com
+173.194.212.191 google-opensource.blogspot.com
+173.194.212.191 1.bp.blogspot.com
+173.194.212.191 2.bp.blogspot.com
+173.194.212.191 3.bp.blogspot.com
+173.194.212.191 4.bp.blogspot.com
+173.194.212.191 blogger.com
+173.194.212.191 www.blogger.com
+173.194.212.191 blogger.l.google.com
+173.194.212.191 www.blogblog.com
+173.194.212.191 img.google.com
+173.194.212.191 img1.blogblog.com
+173.194.212.191 img2.blogblog.com
+173.194.210.100 feeds.feedburner.com
+
+#Others
+72.14.249.180 www.ingress.com
+#72.14.249.180 ghs.google.com
+#72.14.249.180 ghs.l.google.com
+72.14.249.180 ghs-svc-https-c1169.ghs-ssl.googlehosted.com
+
+#Gravatar
+68.232.44.121	0.gravatar.com
+68.232.44.121	1.gravatar.com
+68.232.44.121	2.gravatar.com
+68.232.44.121	3.gravatar.com
+68.232.44.121	4.gravatar.com
+68.232.44.121	5.gravatar.com
+68.232.44.121	6.gravatar.com
+
+#[End]
+#本hosts仅供学习、研究、工作、正常使用Google Chrome，请勿用于其他非法用途

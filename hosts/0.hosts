@@ -1,5 +1,6 @@
+#@SwitchHosts! {"url": null, "icon_idx": 0, "title": "test"}
+# test
 #@SwitchHosts! {"url": null, "icon_idx": 0, "title": "4.3"}
-# 4.3
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
