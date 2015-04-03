@@ -9,17 +9,16 @@
 #localhost END
 
 #Jerry Home START
-192.168.1.210 hibernate_test.jerry.org
-192.168.1.210 nexus_home.jerry.org
-192.168.1.210 ci-core-nexus-repository
-192.168.1.210 cdr-nexus-repository
+192.168.0.110 hibernate_test.jerry.org
+192.168.0.100 nexus_home.jerry.org
+192.168.0.100 ci-core-nexus-repository
+192.168.0.100 cdr-nexus-repository
 #Jerry Home END
 
 192.168.1.24 skd.java.com
 #192.168.1.24 gitlab.skd.com.cn
 
 192.168.1.24 health-nexus-repository
-#101.231.211.40 health-nexus-repository
 
 
 #192.168.0.111 gitlab.example.com
